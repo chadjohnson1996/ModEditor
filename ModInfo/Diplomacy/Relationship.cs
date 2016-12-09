@@ -1,4 +1,5 @@
 ﻿using System;
+using ModInfo.Political;
 
 namespace ModInfo.Diplomacy
 {

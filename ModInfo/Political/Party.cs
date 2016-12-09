@@ -1,4 +1,4 @@
-﻿namespace ModInfo
+﻿namespace ModInfo.Political
 {
     public class Party
     {

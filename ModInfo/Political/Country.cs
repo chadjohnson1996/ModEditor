@@ -1,8 +1,6 @@
 ﻿using System.Collections.Generic;
-using System.ComponentModel.Design;
-using System.Globalization;
 
-namespace ModInfo
+namespace ModInfo.Political
 {
     /// <summary>
     /// defines a country

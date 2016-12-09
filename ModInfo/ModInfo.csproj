@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Country.cs" />
+    <Compile Include="Political\Country.cs" />
     <Compile Include="Culture.cs" />
     <Compile Include="Diplomacy\Alliance.cs" />
     <Compile Include="Diplomacy\PuppetStateTypeEnum.cs" />
@@ -48,15 +48,15 @@
     <Compile Include="Diplomacy\PuppetState.cs" />
     <Compile Include="Diplomacy\Union.cs" />
     <Compile Include="Invention.cs" />
-    <Compile Include="NationalValue.cs" />
-    <Compile Include="OrderOfBattle.cs" />
-    <Compile Include="Party.cs" />
+    <Compile Include="Political\OrderOfBattle.cs" />
+    <Compile Include="Political\Party.cs" />
+    <Compile Include="Political\NationalValue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Province.cs" />
-    <Compile Include="ReformBuilder.cs" />
+    <Compile Include="Political\ReformBuilder.cs" />
     <Compile Include="Region.cs" />
     <Compile Include="Technology.cs" />
-    <Compile Include="UpperHouse.cs" />
+    <Compile Include="Political\UpperHouse.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
