@@ -42,6 +42,11 @@
   <ItemGroup>
     <Compile Include="Country.cs" />
     <Compile Include="Culture.cs" />
+    <Compile Include="Diplomacy\Alliance.cs" />
+    <Compile Include="Diplomacy\PuppetStateTypeEnum.cs" />
+    <Compile Include="Diplomacy\Relationship.cs" />
+    <Compile Include="Diplomacy\PuppetState.cs" />
+    <Compile Include="Diplomacy\Union.cs" />
     <Compile Include="Invention.cs" />
     <Compile Include="NationalValue.cs" />
     <Compile Include="OrderOfBattle.cs" />
